@@ -405,6 +405,36 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>rx</GroupName>
+          <Files>
+            <File>
+              <FileName>drv_spi.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\core\src\rx\drv_spi.c</FilePath>
+            </File>
+            <File>
+              <FileName>drv_time.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\core\src\rx\drv_time.c</FilePath>
+            </File>
+            <File>
+              <FileName>drv_xn297.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\core\src\rx\drv_xn297.c</FilePath>
+            </File>
+            <File>
+              <FileName>led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\core\src\rx\led.c</FilePath>
+            </File>
+            <File>
+              <FileName>rx_nrf24_bayang_telemetry.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\core\src\rx\rx_nrf24_bayang_telemetry.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>usb</GroupName>
           <Files>
             <File>

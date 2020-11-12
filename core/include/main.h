@@ -7,5 +7,6 @@
 
 void usart_send_byte(uint8_t byte);
 void usart_write(uint8_t* buffer, uint32_t size);
+void failloop( int val);
 
 #endif
