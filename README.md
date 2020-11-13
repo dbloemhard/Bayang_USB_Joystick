@@ -2,8 +2,8 @@
 Connecting your transmitter to your PC to play simulators is a pain. There are a few projects out there to let you connect a PPM receiver to your PC, but even a cheap receiver is around $10, and Arduino Pro Minis are $5-10. Since most of us have multiprotocol transmitters these days, I set about to implement the low latency Bayang protocol, using cheap hardware available everywhere.
 
 <UL>
-<li>STM32 Blue Pill: $2 shipped on Aliexpress</li>
-  <li>NRF24L01: $1 shipped on Aliexpress</li>
+  <li>STM32 Blue Pill (STM32F103C8T6, 64KB): $2 shipped on Aliexpress</li>
+  <li>NRF24L01 (PA/LNA optional): $1 shipped on Aliexpress</li>
   <li>Or you can find them locally for cheap.</li>
 </UL>
 
